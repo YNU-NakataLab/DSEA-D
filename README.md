@@ -1,8 +1,8 @@
-# DSEA-D
+# DSEA/D
 
 -This is an open source code of DSEA/D implemented by MATLAB.
 
--You can easily use this code on Evolutionary multi-objective optimization platform ([PlatEMO](https://github.com/BIMK/PlatEMO/releases)) on MATLAB.
+-You can easily use this code on Evolutionary multi-objective optimization platform ([PlatEMO](https://github.com/BIMK/PlatEMO)) on MATLAB.
 
 ## How to run
 
