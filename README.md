@@ -15,17 +15,17 @@
   4. Determine the experimental settings and push "Start" button.
 
 ## Copyright
-> The Copyright of the DSEA/D belongs to the Nakata Lab from Yokohama National University, Japan. You are free to use this code for research purposes. Please refer the following article: _"Yuma Horaguchi, Masaya Nakata, A Dual Surrogate-based Evolutionary Algorithm for High-Dimensional Expensive Multiobjective Optimization Problems, 2024 IEEE Congress on Evolutionary Computation (CEC), IEEE, 2024, Accepted"._
+> The Copyright of the DSEA/D belongs to the Nakata Lab from Yokohama National University, Japan. You are free to use this code for research purposes. Please refer the following article: _"Yuma Horaguchi, Masaya Nakata, A Dual Surrogate-based Evolutionary Algorithm for High-Dimensional Expensive Multiobjective Optimization Problems, 2024 IEEE Congress on Evolutionary Computation (CEC), IEEE, 2024"._
 
 ```
 @inproceedings{horaguchi2024dual,
   title={{A Dual Surrogate-based Evolutionary Algorithm for High-Dimensional Expensive Multiobjective Optimization Problems}},
   author={Horaguchi, Yuma and Nakata, Masaya},
   booktitle={2024 IEEE Congress on Evolutionary Computation (CEC)},
-  pages={},
-  month={},
+  pages={1--8},
+  month={July},
   year={2024},
-  publisher={IEEE}
-  doi={}
+  publisher={IEEE},
+  doi={10.1109/CEC60901.2024.10611944}
 }
 ```

@@ -1,5 +1,5 @@
 classdef DSEAD < ALGORITHM
-% <multi/many> <real/integer> <expensive>
+% <2024> <multi/many> <real/integer> <expensive>
 % Dual surrogate-based evolutionary algorithm based on decomposition
 % delta  --- 0.9 --- The probability of choosing parents locally
 % nr     ---   2 --- Maximum number of solutions replaced by each offspring
@@ -10,7 +10,7 @@ classdef DSEAD < ALGORITHM
 
 %------------------------------- Reference --------------------------------
 % Y. Horaguchi and M. Nakata, A Dual Surrogate-based Evolutionary Algorithm
-% for High-Dimensional Expensive Multiobjective Optimization Problems, 
+% for High-Dimensional Expensive Multiobjective Optimization Problems,
 % Proceedings of the IEEE Congress on Evolutionary Computation, 2024.
 %------------------------------- Copyright --------------------------------
 % Copyright (c) 2024 BIMK Group. You are free to use the PlatEMO for
